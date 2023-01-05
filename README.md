@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Michael 👋
+
+### 📘 Latest blog posts
+
+- [Introducing Elm Editor - a web-based IDE for Elm programs](https://michaelrätzel.com/blog/introducing-elm-editor-a-web-based-ide-for-elm-programs)
+- [Design Report - Migrations in Elm Fullstack Deployments](https://michaelrätzel.com/blog/design-report-migrations-in-elm-fullstack-deployments)
 
 <!--
 **Viir/Viir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,8 @@
 
 ### 📘 Latest blog posts
 
-+ [Elm Silent Teacher - An Interactive Way to Learn Elm](https://xn--michaelrtzel-ncb.com/blog/elm-silent-teacher-an-interactive-way-to-learn-elm)
++ [Database Functions in Elm-Time - Easy Database Updates in Production](https://michaelrätzel.com/blog/database-functions-in-elm-time-easy-database-updates-in-production)
++ [Elm Silent Teacher - An Interactive Way to Learn Elm](https://michaelrätzel.com/blog/elm-silent-teacher-an-interactive-way-to-learn-elm)
 + [Introducing Elm Editor - a web-based IDE for Elm programs](https://michaelrätzel.com/blog/introducing-elm-editor-a-web-based-ide-for-elm-programs)
 + [Design Report - Migrations in Elm Fullstack Deployments](https://michaelrätzel.com/blog/design-report-migrations-in-elm-fullstack-deployments)
 

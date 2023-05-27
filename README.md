@@ -1,5 +1,9 @@
 ### Hi there, I'm Michael 👋
 
+I am a software developer working to make programming more accessible and enjoyable.
+
+Besides finding ways to make communication between humans and machines easier, I enjoy exploring compilers and runtimes.
+
 ### 📘 Latest blog posts
 
 + [Database Functions in Elm-Time - Easy Database Updates in Production](https://michaelrätzel.com/blog/database-functions-in-elm-time-easy-database-updates-in-production)

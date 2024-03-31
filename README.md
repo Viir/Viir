@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 
-I am a software developer working to make programming more accessible and enjoyable.
+I am a software developer, and my work is making programming more enjoyable and sustainable.
 
 Besides finding ways to make communication between humans and machines easier, I enjoy exploring compilers and runtimes.
 
